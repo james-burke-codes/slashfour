@@ -94,8 +94,8 @@ LocalizedTagTemplates["enGB"] = {
             minLevel = 60, maxLevel = 70, reqLevel = 60,
         },
         {
-            title = "The Mechanar",
-            keywords = {"mechanar"},
+            title = "Heroics",
+            keywords = {"heroic", "hc"},
             minLevel = 60, maxLevel = 70, reqLevel = 60,
         },
     },
