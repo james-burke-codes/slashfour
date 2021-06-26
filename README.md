@@ -6,4 +6,4 @@ https://www.curseforge.com/wow/addons/slashfour
 
 ## Install
 
-Download and drop in your WoW folder `/interface/Addons/`
+Download and move the contents of slashfour-main into your WoW folder `/interface/Addons/SlashFour`
